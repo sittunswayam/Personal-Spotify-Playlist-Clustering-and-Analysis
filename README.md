@@ -1,4 +1,4 @@
-# Personal-Spotify-Playlist-Clustering-and-Analysis
+# Personal Spotify Playlist Clustering and Analysis
 
 Clustering scraped Spotify songs and analysing the data by year and features. 
 
